@@ -20,7 +20,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-fluxus-source-demo = "0.1"
+fluxus-source-demo = "0.2"
 ```
 
 ## Usage

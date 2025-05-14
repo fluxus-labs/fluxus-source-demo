@@ -18,7 +18,7 @@ keywords = [
 ]
 
 [dependencies]
-fluxus = { version="0.1", features = ["full"] }
+fluxus = { version="0.2", features = ["full"] }
 tokio = { version = "1", features = ["full", "time"] }
 serde = { version = "1.0", features = ["derive"] }
 async-trait = "0.1"
