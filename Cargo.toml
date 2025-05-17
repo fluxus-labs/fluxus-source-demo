@@ -27,4 +27,3 @@ tracing-subscriber = "0.3.19"
 
 [dev-dependencies]
 cargo-husky = { version = "1", features = ["precommit-hook", "run-cargo-test", "run-cargo-clippy", "run-cargo-fmt"] }
-tempfile = "3"
